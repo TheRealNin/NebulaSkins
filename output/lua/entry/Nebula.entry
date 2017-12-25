@@ -1,0 +1,4 @@
+modEntry = {
+FileHooks = "lua/Nebula/FileHooks.lua",
+Priority = 60
+}

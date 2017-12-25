@@ -1,0 +1,5 @@
+shader = "shaders/ViewModel_emissive_anniv.surface_shader"
+albedoMap = "models/marine/hands/hands_anniv.dds"
+normalMap = "models/marine/hands/hands_normal.dds"
+specularMap = "models/marine/hands/hands_anniv_spec.dds"
+emissiveMap = "models/marine/hands/hands_anniv_illum.dds"

@@ -1,0 +1,12 @@
+name        = "Nin's Nebula Skins"
+source_dir  = "source"
+output_dir  = "output"
+description = [=[This adds a new option to the customize menu for all Forge items called "Nebula". It uses a shader to swap the red and blue channels. This must be run on the server.
+
+To clarify: This doesn't replace the Forge skins, it adds new entries to the Customize Player menu called "Nebula". They can be selected just like any other skin. Players that haven't purchased the Forge skins are able to select the Nebula skins, but you still require purchasing the Forge pack if you wish to use the original Forge skins. UWE has confirmed that this is permitted on whitelisted (ranked) servers.
+
+ModID: 47a9382e]=]
+image       = "preview.jpg"
+tag_modtype = "Look and Feel"
+tag_support = "Must be run on Server"
+publish_id = "47a9382e"
